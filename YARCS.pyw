@@ -38,7 +38,6 @@ def dark(color):
     rgb[0], rgb[1], rgb[2]= int(rgb[0]*0.6), int(rgb[1]*0.6), int(rgb[2]*0.6)
     return '#%02x%02x%02x' % tuple(rgb)
 
-#@functools.lru_cache(maxsize=256)
 def frange(x, y, jump):
     """Generate a range of float numbers with a specified jump/step.
     
