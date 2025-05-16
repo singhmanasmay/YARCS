@@ -76,6 +76,4 @@ The application uses several optimizations for smooth performance:
 
 ## License
 
-## License
-
 [MIT License](LICENSE)
