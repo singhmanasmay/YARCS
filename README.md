@@ -1,6 +1,6 @@
-# ![YARCS2 Icon](icon.ico) YARCS2 - Yet Another Rubik's Cube Solver
+# ![YARCS Icon](icon.ico) YARCS2 - Yet Another Rubik's Cube Solver
 
-YARCS2 is a modern, efficient Rubik's cube solver application with an intuitive graphical interface. It allows users to input any cube configuration and get step-by-step solving instructions.
+YARCS is a modern, efficient Rubik's cube solver application with an intuitive graphical interface. It allows users to input any cube configuration and get step-by-step solving instructions.
 
 
 ## Features
@@ -14,23 +14,31 @@ YARCS2 is a modern, efficient Rubik's cube solver application with an intuitive 
 - **Memory Efficient**: Implements caching and optimizations for smooth performance
 - **Multi-threaded**: Handles UI and solving operations separately for responsiveness
 
-## Requirements
-
-- Python 3.x
-- Windows OS (for accent color integration)
-
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/yarcs.git
-cd yarcs
-```
+1. Download the latest release from the releases page
+3. Run the downloaded file `YARCS.exe`
 
+Or run from source:
+
+1. Clone this repository
 2. Install dependencies:
-```bash
+```
 pip install -r requirements.txt
 ```
+3. Run `YARCS.pyw`
+
+## Requirements
+
+- Windows OS
+- Python 3.x
+- Required Python packages (if running from source):
+  - customtkinter: Modern themed widgets
+  - kociemba: Rubik's cube solving algorithm
+  - Pillow: Image processing for colors
+  - pywinstyles: Windows-specific styling
+  - winaccent: Windows accent color integration
+  - pywin32: Windows API access
 
 ## Usage
 
