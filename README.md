@@ -62,6 +62,7 @@ python yarcs2.py
 - **Mouse Wheel**: Cycle through colors in the color selector
 - **Reset Button**: Clear all face inputs
 - **Input/Output Toggle**: Switch between input and target cube states
+- [how to use the solution](https://jperm.net/3x3/moves)
 
 ## Implementation Details
 
