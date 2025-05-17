@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ## Solving Algorithm
 
-YARCS2 uses [Herbert Kociemba's Two-Phase Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba%27s_Algorithm) for solving the Rubik's cube. This algorithm:
+YARCS uses [Herbert Kociemba's Two-Phase Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba%27s_Algorithm) for solving the Rubik's cube. This algorithm:
 - Finds optimal or near-optimal solutions
 - Can solve any valid cube state
 - Supports solving between arbitrary cube states (not just to the solved state)
