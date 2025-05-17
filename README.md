@@ -6,14 +6,12 @@ YARCS is a modern, efficient Rubik's cube solver application with an intuitive g
 
 ## Features
 
-- **Dual Cube Views**: Input and output cube states with easy switching between them
-- **Interactive Color Selection**: Click or use spacebar-hover to fill cube faces
-- **Real-time Solving**: Get instant solutions as you input the cube state
-- **Smooth Animations**: Fluid transitions and hover effects for better user experience
-- **Small Preview**: Mini view of both input and output cube states
-- **Windows Integration**: Uses system accent colors for theming
-- **Memory Efficient**: Implements caching and optimizations for smooth performance
-- **Multi-threaded**: Handles UI and solving operations separately for responsiveness
+- ⚡ Quick shortcuts for filling the cube
+- 🎨 Quick shortcuts for changing fill color
+- 🚀 Instant solutions
+- ✨ Smooth animations
+- 🎲 Supports custom output cubes
+- 🔄 Real time preview of both input and output cubes
 
 ## Installation
 
@@ -34,12 +32,12 @@ pip install -r requirements.txt
 - Windows OS
 - Python 3.x
 - Required Python packages (if running from source):
-  - customtkinter: Modern themed widgets
-  - kociemba: Rubik's cube solving algorithm
-  - Pillow: Image processing for colors
-  - pywinstyles: Windows-specific styling
-  - winaccent: Windows accent color integration
-  - pywin32: Windows API access
+  - customtkinter (installed automatically with pip)
+  - kociemba (installed automatically with pip)
+  - Pillow (installed automatically with pip)
+  - pywinstyles (installed automatically with pip)
+  - winaccent (installed automatically with pip)
+  - pywin32 (installed automatically with pip)
 
 ## Usage
 
@@ -64,24 +62,6 @@ python yarcs2.py
 - **Input/Output Toggle**: Switch between input and target cube states
 - [how to use the solution](https://jperm.net/3x3/moves)
 
-## Implementation Details
-
-The application uses several optimizations for smooth performance:
-
-- Function result caching with `@functools.lru_cache`
-- Debounced color selection and animations
-- Efficient state management and event batching
-- Smart widget hierarchy for proper z-index handling
-- Memory-efficient color representation
-
-## Dependencies
-
-- customtkinter: Modern themed widgets
-- kociemba: Rubik's cube solving algorithm
-- Pillow: Image processing for colors
-- pywinstyles: Windows-specific styling
-- winaccent: Windows accent color integration
-- pywin32: Windows API access
 
 ## License
 
