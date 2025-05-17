@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ### OR [Solve the cube yourself](https://jperm.net/3x3)
 
-## Solving Algorithm
+## Solution Algorithm
 
 YARCS uses [Herbert Kociemba's Two-Phase Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba%27s_Algorithm) for solving the Rubik's cube. This algorithm:
 - Finds optimal or near-optimal solutions
