@@ -39,7 +39,7 @@ pip install -r requirements.txt
   - winaccent (installed automatically with pip)
   - pywin32 (installed automatically with pip)
 
-[^1]: Please ensure you have [Microsoft C++ build tools installed](https://visualstudio.microsoft.com/visual-cpp-build-tools/) before installing kociemba
+[^1]: Please ensure you have [Microsoft C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) installed before installing kociemba
 
 ## Usage
 
