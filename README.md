@@ -1,4 +1,4 @@
-# ![YARCS Icon](icon.ico) YARCS2 - Yet Another Rubik's Cube Solver
+# ![YARCS Icon](icon.ico) YARCS - Yet Another Rubik's Cube Solver
 
 YARCS is a modern, efficient Rubik's cube solver application with an intuitive graphical interface. It allows users to input any cube configuration and get step-by-step solving instructions.
 
