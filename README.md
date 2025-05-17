@@ -59,7 +59,7 @@ pip install -r requirements.txt
 [^2]: Mouse scroll wheel can also be used to quickly cycle between the colors
 [^3]: Hovering over the stickers while holding the spacebar can also be used to quickly fill the Cube
 
-###OR [Solve the cube yourself](https://jperm.net/3x3)
+### OR [Solve the cube yourself](https://jperm.net/3x3)
 
 ## Solving Algorithm
 
