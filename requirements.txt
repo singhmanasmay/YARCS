@@ -1,6 +1,0 @@
-customtkinter>=5.2.0
-kociemba>=1.2.1
-Pillow>=10.0.0
-pywinstyles>=1.0.0
-winaccent>=1.1.0
-pywin32>=306
