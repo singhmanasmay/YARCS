@@ -31,13 +31,7 @@ pip install -r requirements.txt
 
 - Windows 10 1507 and above
 - Python 3.x
-- Required Python packages (if running from source):
-  - customtkinter (installed automatically with pip)
-  - kociemba (installed automatically with pip)[^1]
-  - Pillow (installed automatically with pip)
-  - pywinstyles (installed automatically with pip)
-  - winaccent (installed automatically with pip)
-  - pywin32 (installed automatically with pip)
+- Python packages in [requirements.txt](requirements.txt) (if running from source)
 
 [^1]: Please ensure you have [Microsoft C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) installed before installing kociemba
 
