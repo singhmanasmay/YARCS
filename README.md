@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 - Windows 10 1507 and above
 - Python 3.x (if running from source)
-- Python packages in [requirements.txt](requirements.txt) (if running from source)
+- Python packages in [requirements.txt](requirements.txt) (if running from source)[^1]
 
 [^1]: Please ensure you have [Microsoft C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) installed before installing kociemba
 
