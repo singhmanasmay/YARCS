@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - Python 3.x (if running from source)
 - Python packages in [requirements.txt](requirements.txt) (if running from source)[^1]
 
-[^1]: Please ensure you have [Microsoft C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) installed before installing kociemba
+[^1]: Please ensure you have [Microsoft C++ build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) installed before installing kociemba module
 
 ## Usage
 
