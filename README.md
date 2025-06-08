@@ -63,6 +63,4 @@ YARCS uses [Herbert Kociemba's Two-Phase Algorithm](https://www.speedsolving.com
 - Supports solving between arbitrary cube states (not just to the solved state)
 - Typically finds solutions in under 20 moves
 
-## License
-
-[MIT License](LICENSE)
+## [License](LICENSE)
