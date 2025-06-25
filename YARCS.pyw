@@ -136,6 +136,8 @@ root = ctk.CTk()
 width = 995
 height = 560
 root.geometry(f'{width}x{height}+{int((root.winfo_screenwidth()/2)-(width/2))}+{int((root.winfo_screenheight()/2)-(height/2))}')
+root.maxsize(width, height)
+root.minsize(width,height)
 root.configure(fg_color=bg[0])
 root.title('YARCS')
 root.iconbitmap(os.path.join(os.path.dirname(__file__),'icon.ico'))
